@@ -2,6 +2,7 @@
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Address|Slides|
 |---|---|---|---|---|---|
+|Dec 21,2025|Junhui Liu|COCA: Generative Root Cause Analysis for Distributed Systems with Code Knowledge|Paper|[Paper PDF](https://arxiv.org/pdf/2503.23051)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Dec-21-2025/Paper.pptx)|
 |Dec 14,2025|Hongda Zeng|Language Modeling from Scratch Lecture 13 & Lecture 14:Data, Lecture 17:Alignment|Lecture|[Lecture Videos](https://www.youtube.com/watch?v=WePxmeXU1xg&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=13)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Dec-14-2025/Lecture.pptx)|
 |Dec 07,2025|Kaiwen Wang|Language Modeling from Scratch Lecture 15 & Lecture 16:Alignment|Lecture|[Lecture Videos](https://www.youtube.com/watch?v=Dfu7vC9jo4w&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=15)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Dec-7-2025/Lecture.pptx)|
 |Nov 30,2025|Luokai Jiang|Cluster-Wide Task Slowdown Detection in Cloud System|Paper|[Paper PDF](https://arxiv.org/pdf/2408.04236)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-30-2025/Paper.pdf)|
