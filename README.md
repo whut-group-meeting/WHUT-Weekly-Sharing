@@ -2,6 +2,8 @@
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Address|Slides|
 |---|---|---|---|---|---|
+|Jan 04,2026|Yongqiang Deng|MRCA: Metric-level Root Cause Analysis for Microservices viaMulti-Modal Data|Paper|[Paper PDF](https://dl.acm.org/doi/epdf/10.1145/3691620.3695485)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-4-2026/MRCA.pptx)|
+|Jan 04,2026|Kaiwen Wang|Reflective Multi-Agent Collaboration based on Large Language Models|Paper|[Paper PDF](https://openreview.net/pdf?id=wWiAR5mqXq)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-4-2026/COPPER.pptx)|
 |Dec 21,2025|Junhui Liu|COCA: Generative Root Cause Analysis for Distributed Systems with Code Knowledge|Paper|[Paper PDF](https://arxiv.org/pdf/2503.23051)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Dec-21-2025/Paper.pptx)|
 |Dec 14,2025|Hongda Zeng|Language Modeling from Scratch Lecture 13 & Lecture 14:Data, Lecture 17:Alignment|Lecture|[Lecture Videos](https://www.youtube.com/watch?v=WePxmeXU1xg&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=13)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Dec-14-2025/Lecture.pptx)|
 |Dec 07,2025|Kaiwen Wang|Language Modeling from Scratch Lecture 15 & Lecture 16:Alignment|Lecture|[Lecture Videos](https://www.youtube.com/watch?v=Dfu7vC9jo4w&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=15)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Dec-7-2025/Lecture.pptx)|
