@@ -2,6 +2,8 @@
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Address|Slides|
 |---|---|---|---|---|---|
+|Jan 11,2026|Yixuan Wan|Testing Graph Databases with Synthesized Queries|Paper|[Paper PDF](https://dl.acm.org/doi/10.1145/3749186)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-11-2026/GQS.pdf)|
+|Jan 11,2026|Luokai Jiang|Enhancing Microservices Anomaly Detection via Multimodal Data Fusion in the Wavelet Domain and Spatiotemporal Graph-based Diffusion Probabilistic Model|Paper|[Paper PDF](https://ieeexplore.ieee.org/document/11292451)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-11-2026/Enhancing%20Microservices%20Anomaly%20Detection.pdf)|
 |Jan 04,2026|Yongqiang Deng|MRCA: Metric-level Root Cause Analysis for Microservices viaMulti-Modal Data|Paper|[Paper PDF](https://dl.acm.org/doi/epdf/10.1145/3691620.3695485)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-4-2026/MRCA.pptx)|
 |Jan 04,2026|Kaiwen Wang|Reflective Multi-Agent Collaboration based on Large Language Models|Paper|[Paper PDF](https://openreview.net/pdf?id=wWiAR5mqXq)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-4-2026/COPPER.pptx)|
 |Dec 21,2025|Junhui Liu|COCA: Generative Root Cause Analysis for Distributed Systems with Code Knowledge|Paper|[Paper PDF](https://arxiv.org/pdf/2503.23051)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Dec-21-2025/Paper.pptx)|
