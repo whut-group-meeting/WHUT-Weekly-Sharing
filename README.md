@@ -1,7 +1,8 @@
 # WHUT-Weekly-Sharing
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
-|---|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Jan 25,2026|Zhipeng Duan|SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents|Paper|NeurIPS 2025|[Paper PDF](https://arxiv.org/pdf/2508.02085)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-25-2026/SE-Agent.pptx)|
 |Jan 18,2026|Zhipeng Wen|Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving|Paper|VLDB 2026|[Paper PDF](https://arxiv.org/pdf/2511.01633)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-18-2026/Scaling_Graph_CoT.pdf)|
 |Jan 18,2026|Yulin Hu|GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation|Paper|NeurIPS 2025|[Paper PDF](https://arxiv.org/pdf/2502.01113)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-18-2026/GFM-RAG.pptx)|
 |Jan 11,2026|Yixuan Wan|Testing Graph Databases with Synthesized Queries|Paper|SIGMOD 2025|[Paper PDF](https://dl.acm.org/doi/10.1145/3749186)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-11-2026/GQS.pdf)|
