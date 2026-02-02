@@ -1,7 +1,9 @@
-# WHUT-Weekly-Sharing
+<img width="231" height="97" alt="image" src="https://github.com/user-attachments/assets/6ac56646-e6d0-4d52-ae1e-929d40997ccc" /><img width="231" height="97" alt="image" src="https://github.com/user-attachments/assets/bc47463f-f8c1-4485-9187-4d9bf7cecacd" /># WHUT-Weekly-Sharing
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Feb 1,2026|Hongda zeng|Scaling Large Language Model-based Multi-Agent Collaboration|Paper|ICLR 2025|[Paper PDF](https://arxiv.org/pdf/2406.07155)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Feb-2-2026/Scaling%20Large%20Language%20Model-based%20Multi-Agent%20Collaboration.pptx)|
+|Feb 1,2026|Junhui Liu|Automatic Root Cause Analysis via Large Language Models for Cloud Incidents|Paper|EuroSys 2024|[Paper PDF](https://dl.acm.org/doi/10.1145/3627703.3629553)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Feb-2-2026/Automatic%20Root%20Cause%20Analysis%20via%20Large%20Language%20Models%20for%20Cloud%20Incidents.pptx)|
 |Jan 25,2026|Zhipeng Duan|SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents|Paper|NeurIPS 2025|[Paper PDF](https://arxiv.org/pdf/2508.02085)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-25-2026/SE-Agent.pptx)|
 |Jan 18,2026|Zhipeng Wen|Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving|Paper|VLDB 2026|[Paper PDF](https://arxiv.org/pdf/2511.01633)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-18-2026/Scaling_Graph_CoT.pdf)|
 |Jan 18,2026|Yulin Hu|GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation|Paper|NeurIPS 2025|[Paper PDF](https://arxiv.org/pdf/2502.01113)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jan-18-2026/GFM-RAG.pptx)|
