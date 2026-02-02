@@ -1,4 +1,4 @@
-<img width="231" height="97" alt="image" src="https://github.com/user-attachments/assets/6ac56646-e6d0-4d52-ae1e-929d40997ccc" /><img width="231" height="97" alt="image" src="https://github.com/user-attachments/assets/bc47463f-f8c1-4485-9187-4d9bf7cecacd" /># WHUT-Weekly-Sharing
+# WHUT-Weekly-Sharing
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
