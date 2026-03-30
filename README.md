@@ -2,6 +2,8 @@
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|May 29,2026|Junhui Liu|FoundRoot: Towards Foundation Model for Root Cause Analysis via Structured Deep Thinking|Paper|ICSE 2026|[Paper PDF](https://netman.aiops.org/wp-content/uploads/2026/01/foundroot_camera_ready.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-29-2026/FoundRoot.pptx)|
+|May 29,2026|Zhipeng Duan|GA-S3 Comprehensive Social Network Simulation with Group Agents|Paper|ACL 2025|[Paper PDF](https://arxiv.org/pdf/2506.03532)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-29-2026/GA-S3%20Comprehensive%20Social%20Network%20Simulation%20with%20Group%20Agents.pptx)|
 |May 22,2026|Yulin Hu|SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly|Paper|NeurIPS 2025|[Paper PDF](https://openreview.net/pdf?id=7Spt8cAJq0)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-22-2026/SYMPHONY.pptx)|
 |May 22,2026|Zhipeng Wen|LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=mCtfkypdm6)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-22-2026/LinearRAG.pdf)|
 |May 15,2026|Yixuan Wan|GDsmith: Detecting Bugs in Cypher Graph Database Engines|Paper|ISSTA 2023|[Paper PDF](https://dl.acm.org/doi/pdf/10.1145/3597926.3598046)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-15-2026/GDsmith.pdf)|
