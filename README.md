@@ -2,6 +2,8 @@
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Apr 12,2026|Hongda Zeng|SR-Scientist: Scientific Equation Discovery With Agentic AI|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=KBN6oUx5uL)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Apr-12-2026/SR-SCIENTIST.pptx)|
+|Apr 12,2026|Yongqiang Deng|KAIOPS：A Platform Solution of End-to-End  Multi-Modal AIOps for AI Training at Scale|Paper|ASE 2025|[Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11334302)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Apr-12-2026/KAIOPS.pptx)|
 |Mar 29,2026|Junhui Liu|FoundRoot: Towards Foundation Model for Root Cause Analysis via Structured Deep Thinking|Paper|ICSE 2026|[Paper PDF](https://netman.aiops.org/wp-content/uploads/2026/01/foundroot_camera_ready.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-29-2026/FoundRoot.pptx)|
 |Mar 29,2026|Zhipeng Duan|GA-S3 Comprehensive Social Network Simulation with Group Agents|Paper|ACL 2025|[Paper PDF](https://arxiv.org/pdf/2506.03532)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-29-2026/GA-S3%20Comprehensive%20Social%20Network%20Simulation%20with%20Group%20Agents.pptx)|
 |Mar 22,2026|Yulin Hu|SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly|Paper|NeurIPS 2025|[Paper PDF](https://openreview.net/pdf?id=7Spt8cAJq0)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-22-2026/SYMPHONY.pptx)|
