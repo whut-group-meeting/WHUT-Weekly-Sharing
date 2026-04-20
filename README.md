@@ -1,7 +1,10 @@
 # WHUT-Weekly-Sharing
-On every Sunday, bring papers and lectures sharing and interpretation‌.
+~~On every Sunday, bring papers and lectures sharing and interpretation‌.~~
+
+On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Apr 20,2026|Kaiwen Wang|AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML|Paper|ICML 2025|[Paper PDF](https://openreview.net/pdf?id=p1UBWkOvZm)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Apr-20-2026/AutoML-Agent.pptx)|
 |Apr 12,2026|Hongda Zeng|SR-Scientist: Scientific Equation Discovery With Agentic AI|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=KBN6oUx5uL)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Apr-12-2026/SR-SCIENTIST.pptx)|
 |Apr 12,2026|Yongqiang Deng|KAIOPS：A Platform Solution of End-to-End  Multi-Modal AIOps for AI Training at Scale|Paper|ASE 2025|[Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11334302)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Apr-12-2026/KAIOPS.pptx)|
 |Mar 29,2026|Junhui Liu|FoundRoot: Towards Foundation Model for Root Cause Analysis via Structured Deep Thinking|Paper|ICSE 2026|[Paper PDF](https://netman.aiops.org/wp-content/uploads/2026/01/foundroot_camera_ready.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Mar-29-2026/FoundRoot.pptx)|
