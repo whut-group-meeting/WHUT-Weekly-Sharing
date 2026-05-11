@@ -4,6 +4,7 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|May 11,2026|Yulin Hu|Agentracer: Who is Inducing Failure in the LLM Agentic Systems?|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=l05DseqvuD)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/May-11-2026/Agentracer.pptx)|
 |Apr 27,2026|Luokai Jiang|Root Cause Analysis if Anomalies in Multivariate Time Series through Granger Causal Discovery|Paper|ICLR 2025|[Paper PDF](https://openreview.net/pdf?id=k38Th3x4d9)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Apr-27-2026/ROOT%20CAUSE%20ANALYSIS%20OF%20ANOMALIES%20IN%20MULTI.pptx)|
 |Apr 20,2026|Kaiwen Wang|AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML|Paper|ICML 2025|[Paper PDF](https://openreview.net/pdf?id=p1UBWkOvZm)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Apr-20-2026/AutoML-Agent.pptx)|
 |Apr 12,2026|Hongda Zeng|SR-Scientist: Scientific Equation Discovery With Agentic AI|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=KBN6oUx5uL)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Apr-12-2026/SR-SCIENTIST.pptx)|
