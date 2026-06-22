@@ -4,6 +4,8 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Jun 22,2026|Yulin Hu|Graph-of-Agents: A Graph-Based Framework for Multi-Agent LLM Collaboration|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=34cANdsHKV)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jun-22-2026/CoA.pptx)|
+|Jun 22,2026|Yixuan Wan|Testing Graph Database Systems via Equivalent Query Rewriting|Paper|ICSE 2024|[Paper PDF](https://dl.acm.org/doi/pdf/10.1145/3597503.3639200)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jun-22-2026/GRev.pdf)|
 |Jun 15,2026|Yongqiang Deng|RCAFlow: A Workflow-Informed Hierarchical Planning Multi-Agent System for Root Cause Analysis|Paper|AAAI 2026|[Paper PDF]( https://doi.org/10.1609/aaai.v40i1.36991)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jun-15-2026/RCAFlow.pptx)|
 |Jun 15,2026|Luokai Jiang|FaultInsight: Interpreting Hyperscale Data Center Host Faults|Paper|SIGKDD 2024|[Paper PDF](https://dl.acm.org/doi/pdf/10.1145/3637528.3672051)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jun-15-2026/FaultInsight.pptx)|
 |Jun 01,2026|Junhui Liu|LLM-Enhanced Failure Localization in Microservices:Integrating Multi-Modal Data and Expert Interpretation|Paper|IEEE TSC 2026|[Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11449471)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jun-01-2026/LocaleXpert.pptx)|
