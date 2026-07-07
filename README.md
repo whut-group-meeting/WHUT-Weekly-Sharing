@@ -4,6 +4,8 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Jul 06,2026|Hongda Zeng|OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning|Paper|ACL 2026|[Paper PDF](https://aclanthology.org/2026.acl-long.1.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-6-2026/Octotools.pptx)|
+|Jul 06,2026|Junhui Liu|MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge|Paper|FSE 2026|[Paper PDF](https://dl.acm.org/doi/pdf/10.1145/3797069)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-6-2026/MetaRCA.pptx)|
 |Jun 29,2026|Zhipeng Duan|AgentCDM: Enhancing Multi-Agent Collaborative Decision-Making via ACH-Inspired Structured Reasoning|Paper|AAAI 2026|[Paper PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40803)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jun-29-2026/AgentCDM.pptx)|
 |Jun 29,2026|Zhipeng Wen|RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=fqqmeg61yd)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jun-29-2026/RAS.pdf)|
 |Jun 22,2026|Yulin Hu|Graph-of-Agents: A Graph-Based Framework for Multi-Agent LLM Collaboration|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=34cANdsHKV)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jun-22-2026/CoA.pptx)|
