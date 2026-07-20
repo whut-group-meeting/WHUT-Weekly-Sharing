@@ -4,6 +4,8 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Jul 20,2026|Yixuan Wan|Dinkel: State-Aware and Granular Framework for Validating Graph Databases|Paper|VLDB 2026|[Paper PDF](https://arxiv.org/pdf/2408.07525)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-20-2026/Dinkel.pdf)|
+|Jul 20,2026|Luokai Jiang|FoundRoot: Towards Foundation Model for Root Cause Analysis  via Structured Deep Thinking|Paper|ICSE 2026|[Paper PDF](https://netman.aiops.org/wp-content/uploads/2026/01/foundroot_camera_ready.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-20-2026/FoundRoot.pptx)|
 |Jul 13,2026|Yongqiang Deng|TORAI: Multi-source Root Cause Analysis for Blind Spots in Microservice Service Call Graph|Paper|FSE 2026|[Paper PDF](https://dlnext.acm.org/doi/pdf/10.1145/3808137)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-13-2026/TORIA.pptx)|
 |Jul 13,2026|Kaiwen Wang|Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents|Paper|ICML 2026|[Paper PDF](https://openreview.net/pdf?id=9kJQjx2B80)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-13-2026/Skill-pro.pptx)|
 |Jul 06,2026|Hongda Zeng|OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning|Paper|ACL 2026|[Paper PDF](https://aclanthology.org/2026.acl-long.1.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-6-2026/Octotools.pptx)|
