@@ -4,6 +4,7 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Aug 24,2026|Zhipeng Duan|Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors|Paper|ACL 2026|[Paper PDF](https://aclanthology.org/2026.acl-long.1880.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Aug-24-2026/Fission-GRPO.pptx)|
 |Jul 27,2026|Yulin Hu|DoVer: Intervention-Driven auto Debugging for LLM Multi-Agent Systems|Paper|ICLR 2026|[Paper PDF](https://openreview.net/pdf?id=mrEK16Jy6h)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-27-2026/DoVer.pptx)|
 |Jul 27,2026|Zhipeng Wen|HiChunk: Evaluating and Enhancing Retrieval Augmented Generation with Hierarchical Chunking|Paper|ACL 2026|[Paper PDF](https://aclanthology.org/2026.acl-long.1372.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-27-2026/HiChunk.pdf)|
 |Jul 20,2026|Yixuan Wan|Dinkel: State-Aware and Granular Framework for Validating Graph Databases|Paper|VLDB 2026|[Paper PDF](https://arxiv.org/pdf/2408.07525)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Jul-20-2026/Dinkel.pdf)|
