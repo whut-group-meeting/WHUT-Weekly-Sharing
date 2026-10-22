@@ -4,6 +4,7 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Oct 22,2026|Ke Deng|Chain-of-Retrieval Augmented Generation|Paper|NeurIPS|[Paper PDF](https://proceedings.neurips.cc/paper_files/paper/2025/hash/566aad4fac1acf17fd1ae8c3aef75326-Abstract-Conference.html))|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-22-2026/CoRAG.pptx)|
 |Oct 15,2026|Yu Liu|Deep Residual Learning for Image Recognition|Paper|CVPR 2016|[Paper PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-15-2026/ResNet.pptx)|
 |Oct 15,2026|Zhanwen Zhang|Enriching Multimodal Sentiment Analysis Through Textual Emotional Descriptions of Visual-Audio Content|Paper|AAAI 2025|[Paper PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32152)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-15-2026/DEVA_%20Enriching%20Multimodal%20Sentiment%20Analysis%20-%20Group%20Meeting.pptx)|
 |Oct 15,2026|Qinghua Huang|ColPali: Efficient Document Retrieval with Vision Language Models|Paper|ICLR 2025|[Paper PDF](https://proceedings.iclr.cc/paper_files/paper/2025/file/99e9e141aafc314f76b0ca3dd66898b3-Paper-Conference.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-15-2026/ColPali.pptx)|
