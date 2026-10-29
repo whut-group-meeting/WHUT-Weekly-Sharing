@@ -4,6 +4,7 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Oct 29,2026|Quan Zhou|Retriever Portfolios: A Principled Approach to Adaptive RAG|Paper|ICML 2026|[Paper PDF](https://arxiv.org/pdf/2605.31176)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-29-2026/RetrieverPortfolios_GroupMeeting_ZhouQuan.pptx)|
 |Oct 22,2026|Leming Yu|Lightweight LLM Agent Memory with Small Language Models|Paper|ACL 2026|[Paper PDF](https://arxiv.org/abs/2604.07798)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-22-2026/LightMem_Group_Meeting_v1%20(2).pdf)|
 |Oct 22,2026|Zhifeng Qin|Utility-Oriented Visual Evidence Selection for Multimodal|Paper|ACL 2026|[Paper PDF](https://aclanthology.org/2026.acl-long.1620.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-22-2026/Utility-Oriented%20Visual%20Evidence%20Selection%20for%20Multimodal.pptx)|
 |Oct 22,2026|Ke Deng|Chain-of-Retrieval Augmented Generation|Paper|NeurIPS 2025|[Paper PDF](https://proceedings.neurips.cc/paper_files/paper/2025/hash/566aad4fac1acf17fd1ae8c3aef75326-Abstract-Conference.html)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Oct-22-2026/CoRAG.pptx)|
