@@ -4,7 +4,7 @@
 On every Monday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Conference/Journal|Address|Slides|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Nov 26,2026|Yu Liu|Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation|Paper|ACL 2026|[Paper PDF](https://arxiv.org/abs/2601.02993)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-26-2026/Stable-RAG.pptx)|
+|Nov 26,2026|Yu Liu|Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation|Paper|ACL 2026|[Paper PDF](https://aclanthology.org/2026.acl-long.1188/)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-26-2026/Stable-RAG.pptx)|
 |Nov 26,2026|Zhanwen Zhang|MGRAG: Semantic Subgraph Matching and Graph-Aware Caching for Multimodal Retrieval-Augmented Generation|Paper|VLDB 2026|[Paper PDF](https://www.vldb.org/pvldb/vol19/p2480-wang.pdf )|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-26-2026/MGRAG.pptx)|
 |Nov 26,2026|Qinghua Huang|BookRAG: A Hierarchical Structure-aware Index-based Approach for Retrieval-Augmented Generation on Complex Documents|Paper|VLDB 2026|[Paper PDF](https://www.vldb.org/pvldb/vol19/p2358-wang.pdf)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-26-2026/BookRAG.pptx)|
 |Nov 19,2026|Zi Wu|FIRE-Bench：Evaluating AI Agents on the Rediscovery of Scientific Insights|Paper|ICML 2026|[Paper PDF](https://arxiv.org/abs/2602.02905)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-19-2026/FIRE-Bench_Presentation_EN.pptx)|
